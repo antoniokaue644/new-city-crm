@@ -11,4 +11,4 @@ Após criar uma conta e entrar no sistema, o usuário pode cadastrar um cliente 
 | Antônio Kauê de Sousa Santos | 289268 |
 | Samuel Soares da Silva | 270711 |
 | Arthur Oliveira Fernandes | 267021 |
-| Kauã dos Santos | A confirmar |
+| Kauã dos Santos | 89817 |
